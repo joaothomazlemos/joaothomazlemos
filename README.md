@@ -6,6 +6,7 @@ In this GitHub repository, you'll find my projects and contributions related to 
 
 ## About Me
 
+- I'm doing a masters in engineering with focus on deeplearning and statistics.
 - I have experience working with Python and SQL programming languages.
 - I have completed several online courses and certifications in data science and analytics, mostly from courseira.
 - I have worked on projects that demonstrate my ability to gather, clean, analyze, and visualize data, as well as develop machine learning models.
