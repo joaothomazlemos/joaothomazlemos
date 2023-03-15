@@ -6,11 +6,10 @@ In this GitHub repository, you'll find my projects and contributions related to 
 
 ## About Me
 
-- I have experience working with various programming languages, including Python, R, SQL, and MATLAB.
-- I have completed several online courses and certifications in data science and analytics, including [insert course or certification names].
-- I have participated in data science competitions, such as Kaggle, where I was able to apply my skills to real-world problems and learn from other professionals in the field.
+- I have experience working with Python and SQL programming languages.
+- I have completed several online courses and certifications in data science and analytics, mostly from courseira.
 - I have worked on projects that demonstrate my ability to gather, clean, analyze, and visualize data, as well as develop machine learning models.
-- I have experience working with popular data science tools, such as Jupyter Notebook, Pandas, NumPy, Scikit-learn, TensorFlow, and Tableau.
+- I have experience working with popular data science tools, such as Jupyter Notebook, Pandas, NumPy, Scikit-learn, TensorFlow, and Apache Spark.
 - I have excellent problem-solving skills, strong attention to detail, and the ability to work independently and as part of a team.
 
 Let's connect and collaborate on exciting data-driven projects!
