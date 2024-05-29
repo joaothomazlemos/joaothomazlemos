@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm João Thomaz Lemos, a Machine Learning engineer with a passion for using data to improve people's lives and help organizations achieve their goals more efficiently. I graduated from Universidade Federal do Espírito Santo (UFES) with a degree in Electrical Engineering and a master's in Sustainable Technologies, always exploring my interest in Machine Learning, Deep Learning, and Business Intelligence (BI) solutions.
+I'm João Thomaz Lemos, a Data Scientist and Machine Learning engineer with a passion for using data to improve people's lives and help organizations achieve their goals more efficiently. I graduated from Universidade Federal do Espírito Santo (UFES) with a degree in Electrical Engineering and a master's in Sustainable Technologies, always exploring my interest in Machine Learning, Deep Learning, and Business Intelligence (BI) solutions.
 
 
 In this GitHub repository, you'll find my projects and contributions related to data science and analytics. I'm constantly learning and experimenting with new technologies and techniques, so stay tuned for updates and improvements.
