@@ -12,7 +12,7 @@ In this GitHub repository, you'll find my projects and contributions related to 
 - I have experience working with Python and SQL programming languages.
 - I have completed several online courses and certifications in data science and analytics, mostly from Courseira.
 - I have worked on projects that demonstrate my ability to gather, clean, analyze, and visualize data, as well as develop machine learning models.
-- I have experience working with popular data science tools, such as Jupyter Notebook, Pandas, NumPy, Scikit-learn, TensorFlow, and Apache Spark.
+- I have experience working with popular data science tools, such as Docker, Jupyter Notebook, Pandas, NumPy, Scikit-learn, TensorFlow, and Apache Spark.
 - I have excellent problem-solving skills, strong attention to detail, and the ability to work independently and as part of a team.
 
 Let's connect and collaborate on exciting data-driven projects!
