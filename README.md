@@ -8,7 +8,7 @@ In this GitHub repository, you'll find my projects and contributions related to 
 ## About Me
 
 - I  have a masters in the engineering field with a focus on deep learning and statistics.
-- I'm  currently working as a Machine Learning engineer at [2Neuron](https://2neuron.com/), where I'm responsible for developing ML models for anomaly detection and deploying them, using the AWS cloud.
+- I'm  currently working as a Machine Learning engineer at [2Neuron](https://2neuron.com/), where I'm responsible for developing ML models for anomaly detection and deploying them, using the AWS cloud, managing the resources with terraform (IaC).
 - I have experience working with Python and SQL programming languages.
 - I have completed several online courses and certifications in data science and analytics, mostly from Courseira.
 - I have worked on projects that demonstrate my ability to gather, clean, analyze, and visualize data, as well as develop machine learning models.
